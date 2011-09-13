@@ -1,0 +1,23 @@
+{
+  "author": "Brian M. Carlson <brian.m.carlson@gmail.com>",
+  "name": "austinode.com",
+  "description": "austinode web site",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianc/austinode.git"
+  },
+  "engines": {
+    "node": "~v0.4.8"
+  },
+  "dependencies": {
+    "jade" : "*",
+    "express" : "*",
+    "stylus-blueprint" : "*"
+  },
+  "devDependencies": {
+    "tobi" : "*",
+    "drain" : "*"
+  },
+  "private" : true
+}
