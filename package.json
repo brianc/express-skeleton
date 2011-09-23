@@ -1,11 +1,11 @@
 {
   "author": "Brian M. Carlson <brian.m.carlson@gmail.com>",
-  "name": "austinode.com",
-  "description": "austinode web site",
+  "name": "express-skeleton",
+  "description": "boilerplate for express site",
   "version": "0.0.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianc/austinode.git"
+    "url": "git://github.com/brianc/express-skeleton"
   },
   "engines": {
     "node": "~v0.4.8"
