@@ -17,7 +17,8 @@
   },
   "devDependencies": {
     "tobi" : "*",
-    "drain" : "*"
+    "drain" : "*",
+    "test-dir": "*"
   },
   "private" : true
 }
